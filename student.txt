@@ -3,3 +3,6 @@ Student Name: R PRABHAS
 Roll Number: 032
 Department: CSD
 Semester: 5
+
+Attendance: 85%
+Result: PASS
